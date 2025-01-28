@@ -1,1 +1,1 @@
-# Teckchriti_LanewayAmigos
+# Techkriti_LanewayAmigos
