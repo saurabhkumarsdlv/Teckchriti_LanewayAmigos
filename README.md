@@ -36,8 +36,8 @@ This project brings to life a **line-following robot** that uses **PID (Proporti
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/yourusername/line-follower-pid.git
-   cd line-follower-pid
+   git clone [https://github.com/yourusername/line-follower-pid.git
+   cd line-follower-pid](https://github.com/saurabhkumarsdlv/Teckchriti_LanewayAmigos)
    ```
 2. **Open and upload the Arduino files:**
    - `line_follower_pid_overshot.ino` controls the line-following behavior.
